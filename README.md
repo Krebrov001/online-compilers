@@ -10,9 +10,6 @@ This document is a collection of online compilers.
 #### ODA - The Online Disassembler
  - [https://onlinedisassembler.com/odaweb/](https://onlinedisassembler.com/odaweb/)
 
-#### Shadertoy
- - [https://www.shadertoy.com/](https://www.shadertoy.com/)
-
 #### Ideone Online Compiler and IDE
  - [https://www.ideone.com/](https://www.ideone.com/)
 
@@ -30,3 +27,9 @@ This document is a collection of online compilers.
 
 #### OneCompiler
  - [https://onecompiler.com/](https://onecompiler.com/)
+
+#### Shadertoy
+ - [https://www.shadertoy.com/](https://www.shadertoy.com/)
+
+#### SHADERed
+ - [https://shadered.org/template](https://shadered.org/template)
