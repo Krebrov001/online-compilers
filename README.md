@@ -33,3 +33,6 @@ This document is a collection of online compilers.
 
 #### SHADERed
  - [https://shadered.org/template](https://shadered.org/template)
+
+#### EDA Playground
+ - [https://www.edaplayground.com/](https://www.edaplayground.com/)
