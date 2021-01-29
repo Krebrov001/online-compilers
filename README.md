@@ -60,3 +60,9 @@ This document is a collection of online compilers.
 
 #### Play with Docker
  - [https://labs.play-with-docker.com/](https://labs.play-with-docker.com/)
+
+#### Best Online Linux Terminals and Online Bash Editors
+ - [https://itsfoss.com/online-linux-terminals/](https://itsfoss.com/online-linux-terminals/)
+
+#### CoCalc - online scientific software Jupyter, LaTeX, Linux, Octave, Python, R Stats, X11
+ - [https://cocalc.com/index.html](https://cocalc.com/index.html)
