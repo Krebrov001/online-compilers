@@ -66,3 +66,9 @@ This document is a collection of online compilers.
 
 #### CoCalc - online scientific software Jupyter, LaTeX, Linux, Octave, Python, R Stats, X11
  - [https://cocalc.com/index.html](https://cocalc.com/index.html)
+
+#### OverTheWire: Wargames
+ - [https://overthewire.org/wargames/](https://overthewire.org/wargames/)
+
+#### Exploit Education Protostar
+ - [https://exploit.education/](https://exploit.education/)
