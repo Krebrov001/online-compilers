@@ -90,3 +90,57 @@ This document is a collection of online compilers.
 
 #### CoderPad
  - [https://coderpad.io/](https://coderpad.io/)
+
+#### WebAssembly Explorer
+ - [https://mbebenita.github.io/WasmExplorer](https://mbebenita.github.io/WasmExplorer)
+
+#### WebAssembly Studio
+ - [https://webassembly.studio/](https://webassembly.studio/)
+
+#### The ELLCC Embedded Compiler Collection (C/C++ compiler and disassembler, produces LLVM IR and assembly code
+ - [http://ellcc.org/demo/index.cgi](http://ellcc.org/demo/index.cgi)
+
+#### DartPad
+ - [https://www.dartpad.dev/](https://www.dartpad.dev/)
+
+#### Graphviz Online
+ - [https://dreampuf.github.io/GraphvizOnline/](https://dreampuf.github.io/GraphvizOnline/)
+
+#### Programiz Online C Compiler
+ - [https://www.programiz.com/c-programming/online-compiler/](https://www.programiz.com/c-programming/online-compiler/)
+
+#### Rextester Online Compiler
+ - [https://rextester.com/](https://rextester.com/)
+
+#### myCompiler
+ - [https://www.mycompiler.io/](https://www.mycompiler.io/)
+
+#### Defuse Online x86 / x64 Assembler and Disassembler
+ - [https://defuse.ca/online-x86-assembler.htm](https://defuse.ca/online-x86-assembler.htm)
+
+#### Visual MIPS | Online MIPS Emulator
+ - [https://visualmips.github.io/](https://visualmips.github.io/)
+
+#### Online MIPS assembler
+ - [https://alanhogan.com/asu/assembler.php](https://alanhogan.com/asu/assembler.php)
+
+#### WeMips: Online Mips Emulator
+ - [https://rivoire.cs.sonoma.edu/cs351/wemips/](https://rivoire.cs.sonoma.edu/cs351/wemips/)
+
+#### ORG - ClrHome | An online Z80 assembler and development environment
+ - [https://clrhome.org/asm/](https://clrhome.org/asm/)
+
+#### ASM80 - online assembler for 8bit microprocessors
+ - [https://www.asm80.com/](https://www.asm80.com/)
+
+#### C to Assembly Compiler and Interpreter
+ - [http://ctoassembly.com/](http://ctoassembly.com/)
+
+#### Swagger Editor
+ - [https://editor.swagger.io/](https://editor.swagger.io/)
+
+#### HexEd.it
+ - [https://hexed.it/](https://hexed.it/)
+
+#### Free Online Hex Editor & Viewer
+ - [https://www.onlinehexeditor.com/](https://www.onlinehexeditor.com/)
