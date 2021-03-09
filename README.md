@@ -34,6 +34,24 @@ This document is a collection of online compilers.
 #### CodePen
  - [https://codepen.io/](https://codepen.io/)
 
+#### CodeSandbox
+ - [https://codesandbox.io/](https://codesandbox.io/)
+
+#### W3Schools Online Code Editor
+ - [https://www.w3schools.com/tryit/](https://www.w3schools.com/tryit/)
+
+#### JSFiddle - Code Playground
+ - [https://jsfiddle.net/](https://jsfiddle.net/)
+
+#### PlayCode
+ - [https://playcode.io/](https://playcode.io/)
+
+#### Collabedit
+ - [http://collabedit.com/](http://collabedit.com/)
+
+#### Codeshare
+ - [https://codeshare.io/](https://codeshare.io/)
+
 #### Pastebin
  - [https://pastebin.com/](https://pastebin.com/)
 
@@ -117,6 +135,9 @@ This document is a collection of online compilers.
 
 #### myCompiler
  - [https://www.mycompiler.io/](https://www.mycompiler.io/)
+
+#### PaizaCloud Online IDE
+ - [https://paiza.io/en](https://paiza.io/en)
 
 #### Defuse Online x86 / x64 Assembler and Disassembler
  - [https://defuse.ca/online-x86-assembler.htm](https://defuse.ca/online-x86-assembler.htm)
