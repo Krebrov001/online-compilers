@@ -133,6 +133,18 @@ This document is a collection of online compilers.
 #### WebAssembly Studio
  - [https://webassembly.studio/](https://webassembly.studio/)
 
+#### wasmdec - WebAssembly to C Decompiler
+ - [https://wwwg.github.io/web-wasmdec/](https://wwwg.github.io/web-wasmdec/)
+
+#### Rust Playground
+ - [https://play.rust-lang.org/](https://play.rust-lang.org/)
+
+#### Go Playground
+ - [https://play.golang.org/](https://play.golang.org/)
+
+#### Coding Blocks IDE
+ - [https://ide.codingblocks.com/](https://ide.codingblocks.com/)
+
 #### The ELLCC Embedded Compiler Collection (C/C++ compiler and disassembler, produces LLVM IR and assembly code
  - [http://ellcc.org/demo/index.cgi](http://ellcc.org/demo/index.cgi)
 
