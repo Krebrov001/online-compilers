@@ -148,6 +148,9 @@ This document is a collection of online compilers.
 #### PaizaCloud Online IDE
  - [https://paiza.io/en](https://paiza.io/en)
 
+#### BlazorFiddle
+ - [https://blazorfiddle.com/](https://blazorfiddle.com/)
+
 #### Defuse Online x86 / x64 Assembler and Disassembler
  - [https://defuse.ca/online-x86-assembler.htm](https://defuse.ca/online-x86-assembler.htm)
 
