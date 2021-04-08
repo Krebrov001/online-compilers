@@ -151,6 +151,9 @@ This document is a collection of online compilers.
 #### BlazorFiddle
  - [https://blazorfiddle.com/](https://blazorfiddle.com/)
 
+#### Online HTML Editor - HTML-Online.com
+ - [https://html-online.com/editor/](https://html-online.com/editor/)
+
 #### Defuse Online x86 / x64 Assembler and Disassembler
  - [https://defuse.ca/online-x86-assembler.htm](https://defuse.ca/online-x86-assembler.htm)
 
