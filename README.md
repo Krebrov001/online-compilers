@@ -175,6 +175,12 @@ This document is a collection of online compilers.
 #### BlazorFiddle
  - [https://blazorfiddle.com/](https://blazorfiddle.com/)
 
+#### Kick.js | Shader editor
+ - [http://www.kickjs.org/example/shader_editor/shader_editor.html](http://www.kickjs.org/example/shader_editor/shader_editor.html)
+
+#### WebGL Playground
+ - [http://webglplayground.net/](http://webglplayground.net/)
+
 #### WebGL-Editor
  - [https://web.cs.upb.de/cgvb/WebGLEditor/](https://web.cs.upb.de/cgvb/WebGLEditor/)
 
@@ -183,6 +189,9 @@ This document is a collection of online compilers.
 
 #### babylon.js - free online Web rendering engine
  - [https://www.babylonjs.com/](https://www.babylonjs.com/)
+
+#### SpectorJS - Explore and Troubleshoot your WebGL scenes
+ - [https://spector.babylonjs.com/](https://spector.babylonjs.com/)
 
 #### Defuse Online x86 / x64 Assembler and Disassembler
  - [https://defuse.ca/online-x86-assembler.htm](https://defuse.ca/online-x86-assembler.htm)
