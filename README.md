@@ -225,3 +225,6 @@ This document is a collection of online compilers.
 
 #### Free Online Hex Editor & Viewer
  - [https://www.onlinehexeditor.com/](https://www.onlinehexeditor.com/)
+
+#### OpenAI API Playground
+ - [beta.openai.com/playground](beta.openai.com/playground)
