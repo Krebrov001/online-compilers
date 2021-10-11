@@ -228,3 +228,6 @@ This document is a collection of online compilers.
 
 #### OpenAI API Playground
  - [beta.openai.com/playground](beta.openai.com/playground)
+
+#### Code translator
+ - [https://typist.codes/translate_code_landing](https://typist.codes/translate_code_landing)
