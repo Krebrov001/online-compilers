@@ -231,3 +231,9 @@ This document is a collection of online compilers.
 
 #### Code translator
  - [https://typist.codes/translate_code_landing](https://typist.codes/translate_code_landing)
+
+#### HtmlSave
+ - [https://htmlsave.com/](https://htmlsave.com/)
+
+#### HTML Iframe Generator
+ - [https://html-css-js.com/html/generator/iframe/](https://html-css-js.com/html/generator/iframe/)
