@@ -246,3 +246,6 @@ This document is a collection of online compilers.
 
 #### Coding ToolBox for Developers
  - [https://coding.tools/](https://coding.tools/)
+
+#### Open Circuits
+ - [http://www.opencircuits.io/](http://www.opencircuits.io/)
