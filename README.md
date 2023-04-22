@@ -229,6 +229,9 @@ This document is a collection of online compilers.
 #### OpenAI API Playground
  - [beta.openai.com/playground](beta.openai.com/playground)
 
+#### prmpts.AI
+ - [https://prmpts.ai/](https://prmpts.ai/)
+
 #### Code translator
  - [https://typist.codes/translate_code_landing](https://typist.codes/translate_code_landing)
 
