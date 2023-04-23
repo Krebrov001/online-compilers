@@ -252,3 +252,6 @@ This document is a collection of online compilers.
 
 #### Open Circuits
  - [http://www.opencircuits.io/](http://www.opencircuits.io/)
+
+#### KLEE Symbolic Execution Engine
+ - [https://klee.github.io/](https://klee.github.io/)
