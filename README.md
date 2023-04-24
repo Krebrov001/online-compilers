@@ -255,3 +255,6 @@ This document is a collection of online compilers.
 
 #### KLEE Symbolic Execution Engine
  - [https://klee.github.io/](https://klee.github.io/)
+
+#### Phind AI Search Engine for developers
+ - [https://www.phind.com/](https://www.phind.com/)
