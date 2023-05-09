@@ -267,3 +267,6 @@ This document is a collection of online compilers.
 
 #### Jesse Zhang LLM Demo
  - [https://jessezhang.org/llmdemo](https://jessezhang.org/llmdemo)
+
+#### HCL RTist in Code
+ - [https://opensource.hcltechsw.com/rtist-in-code/](https://opensource.hcltechsw.com/rtist-in-code/)
