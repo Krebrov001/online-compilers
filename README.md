@@ -270,3 +270,6 @@ This document is a collection of online compilers.
 
 #### HCL RTist in Code
  - [https://opensource.hcltechsw.com/rtist-in-code/](https://opensource.hcltechsw.com/rtist-in-code/)
+
+#### Ideas for better programming tools
+ - [https://emilprogviz.com/](https://emilprogviz.com/)
