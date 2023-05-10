@@ -290,4 +290,28 @@ This document is a collection of online compilers.
  - [https://pythontutor.com/visualize.html#mode=edit](https://pythontutor.com/visualize.html#mode=edit)
 
 #### memlayout - Visualizing Code in Python 3.7 and Java 8
-- [https://memlayout.com/](https://memlayout.com/)
+ - [https://memlayout.com/](https://memlayout.com/)
+
+#### Ardublockly
+ - [https://ardublockly.embeddedlog.com/](https://ardublockly.embeddedlog.com/)
+
+#### BlocklyDuino
+ - [https://blocklyduino.github.io/BlocklyDuino/](https://blocklyduino.github.io/BlocklyDuino/)
+
+#### BlocklyDuino Editor
+ - [https://code.makewitharduino.com/](https://code.makewitharduino.com/)
+
+#### BlocklyDuino V2
+ - [https://blocklyduino.github.io/BlocklyDuino-v2/](https://blocklyduino.github.io/BlocklyDuino-v2/)
+
+#### BlocklyDuino Enhanced
+ - [http://easycoding.tn/bde/demos/code/](http://easycoding.tn/bde/demos/code/)
+
+#### Blocklino
+ - [https://fontainejp.github.io/blocklino.html](https://fontainejp.github.io/blocklino.html)
+
+#### Blockly Visual Embedded Rust for PineTime Smart Watch
+ - [https://lupyuen.github.io/blockly-mynewt-rust/demos/code/](https://lupyuen.github.io/blockly-mynewt-rust/demos/code/)
+
+#### STudio4Education is a Blockly visual programming editor for ST microelectronics boards
+ - [https://a-s-t-u-c-e.github.io/STudio4Education/](https://a-s-t-u-c-e.github.io/STudio4Education/)
