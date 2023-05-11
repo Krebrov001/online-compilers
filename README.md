@@ -157,6 +157,9 @@ This document is a collection of online compilers.
 #### The ELLCC Embedded Compiler Collection (C/C++ compiler and disassembler, produces LLVM IR and assembly code
  - [http://ellcc.org/demo/index.cgi](http://ellcc.org/demo/index.cgi)
 
+#### CPUlator ARMv7 System Simulator (Emulator for ARM programming)
+ - [https://cpulator.01xz.net/?sys=arm-de1soc](https://cpulator.01xz.net/?sys=arm-de1soc)
+
 #### DartPad
  - [https://www.dartpad.dev/](https://www.dartpad.dev/)
 
